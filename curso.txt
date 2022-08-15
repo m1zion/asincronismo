@@ -1,8 +1,12 @@
 clase 6 *******************************************************
     1. npm init
     2. install plugin code runner
-clase 7 callbacks *********************************************
+clase 7 8 9 callbacks *********************************************
  Funcion que pasa como argumento otra funcion, un ejemplo es el setTimeOut
 clase 8 FakeAPi XMLHTTPRequest ********************************
  https://fakeapi.platzi.com/
  1. Instalar XMLHTTPRequest npm install XMLHTTPRequest
+
+
+ clase 13 funciones asincronas
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
