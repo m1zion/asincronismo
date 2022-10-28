@@ -1,3 +1,5 @@
+// Muy importante instalar la extensión Code Runner, presionar las teclas Ctrl + P y pegar: 
+// ext install formulahendry.code-runner y dar ENTER
 //Funcion que recibe como argumento una funcion
 function sum(num1,num2){
     return num1+num2;
