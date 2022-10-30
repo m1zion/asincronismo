@@ -1,0 +1,10 @@
+Imnstalar extencion CODE runner
+/*******CLASE 8 XMLHTTPRequest********/
+fakeapi.js
+1. Instalar npm install XMLHTTPRequest
+    npm i xmlhttprequest
+2. Crear funcion fetchData
+
+/*******CLASE 9 FetchData********/
+fakeapi.js
+1. Llamar a fetchData
