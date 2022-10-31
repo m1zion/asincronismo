@@ -8,3 +8,32 @@ fakeapi.js
 /*******CLASE 9 FetchData********/
 fakeapi.js
 1. Llamar a fetchData
+
+/******CLASE 11 Promesas*********/
+promise/index.js
+1. Creamos una funcion que recibe como parametro otra funcion
+2. Hacemos la logica necesaria
+3. Mandamos a llamar la funcion, la cual esperara una promesa...
+    .then //Se cumplio la promesa
+    .catch //No se cumplo la promesa
+    .finally //Se terminó la promesa
+
+/*************CLASE 13 fetch API*******************/
+fakeapi.js
+1. Instalar node fetch
+    npm i node-fetch
+2. Agregar como modulo en package.json
+      "type": "module"
+3. Crear la funcion que llama a fetch data y llamarla
+4. Hacemos un then y un response para cada llamada
+
+/***********CLASE 14 POST*************************/
+1. Importamos fetch
+2. Creamos funcion de fetch pero que hara POST, con todos los parametros necesarios
+3. Llamamos a la funcion
+
+/*********CLASE 15 Async *****************/
+async/index.js
+Mejora la sintazis y utiliza los elementos de promise asi como de async y await
+1. En el ejemplo se ve claramente que el programa no se detiene cuando ejecuta la funcion
+por lo que sigue ejecutando el codigo subsecuente

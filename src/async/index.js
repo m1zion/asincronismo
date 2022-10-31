@@ -14,6 +14,7 @@ console.log('Before');
 doSomething();
 console.log('After');
 
+
 /******RESULT*******/
 //Before
 //After   3 secs...
